@@ -1,0 +1,25 @@
+header{
+    font-size: 50px;
+    background-color: slategrey;
+    color:moccasin;
+}
+center{
+    border: 2px solid black;
+    margin-top: 5%;
+    margin-left: 35%;
+    height: 550px;
+    width: 350px;
+    background-color:darkgrey;
+} 
+h1{
+    background-color: dimgray;
+    color: bisque;
+}
+button{
+    border: 2px solid black;
+    border-radius: 20px 20px 20px 20px;
+    width: 100px;
+    background-color:tomato;
+    color:snow;
+       
+}
